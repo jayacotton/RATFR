@@ -1,4 +1,8 @@
 # RATFR
+
+I'v added the Supersoft version of RATFOR for CP/M as a cp/m library.
+The output is not compatible with Microsoft fortran.
+
 RATFOR v 1.05 from linux.  Runs on CP/M
 
 Below is the README I found in the source package.
