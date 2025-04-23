@@ -8,6 +8,9 @@ The code is compiled with z88dk and the F77 flag is off.
 This makes the output a bit more compatible with Microsoft
 FORTRAN on CP/M.
 
+The autoconfig has been removed.  I provide a simple Makefile
+for use with z88dk.
+
         This is a C version of ratfor, derived from a UofA ratfor
 	in ratfor. It was originally released to the net sometime
 	ago, and It is re-released for the benefit of those sites
